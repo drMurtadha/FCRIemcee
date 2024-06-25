@@ -25,4 +25,4 @@ Sure, I can help with that. Here is the markdown table for the content you provi
 |  | MC 2 | Lastly, Mr Lim from One Team Networks Sdn Bhd and representatives.
 | Photo Session | MC 1 | To capture this memorable occasion, we will now have a group photo session. I would like to invite all the distinguished guests and VIPs to the stage for a group photo. |
 | Souvenir Presentation | MC 1 | We would like to invite Prof. Ts. Dr. Wan Mohd Nasir bin Wan kadir to present a token of appreciation to Prof. Dr. Rosli. 
-| Prof. Ts. Dr. Wan Mohd Nasir Wan Kadir | Presentation of Souvenir 
+| | Prof. Ts. Dr. Wan Mohd Nasir Wan Kadir | Presentation of Souvenir |
