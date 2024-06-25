@@ -6,7 +6,8 @@ Sure, I can help with that. Here is the markdown table for the content you provi
 | --- | --- | --- |
 | Opening Ceremony | MC | Ladies and gentlemen, Assalamu'alaikum Warahmatullahi Wabarakatuh and a very good morning to everyone. On behalf of the organizing committee, it is my pleasure to welcome all of you to this prestigious event. We are honored to have such esteemed guests with us today. To begin our ceremony, I would like to invite [name], to recite the Dua. Please welcome [name] to the stage. |
 | Dua Recitation | [name] | Recitation of Dua |
-|  | MC | Thank you, [name], for the beautiful recitation. May we all be blessed with a successful and enriching event today.* |
+|  | MC | Thank you, [name], for the beautiful recitation. May we all be blessed with a successful and enriching event today. |
+| Welcoming Remark  | MC | Now, it gives me great pleasure to invite Dr. Ahmad Najmi bin Amerhaider Nuar, the Program Director, to deliver the welcoming remarks. Please give a warm welcome to Dr. Ahmad Najmi. |
 | Welcoming Remark | Dr. Ahmad Najmi bin Amerhaider Nuar | Welcoming remarks |
 | Dean Speech | Prof. Ts. Dr. Wan Mohd Nasir bin Wan Kadir | Dean's speech |
 | Officiating Speech | Prof. Dr. Rosli bin Md Illias | Officiating speech |
