@@ -16,7 +16,7 @@ Sure, I can help with that. Here is the markdown table for the content you provi
 | Officiating Speech | MC2 | Now, it is my honor to invite Prof. Dr. Rosli bin Md Illias, Deputy Vice Chancellor (Research & Innovation) UTM, to deliver the officiating speech. Please welcome Prof. Dr. Rosli to the stage. |
 |  | Prof. Dr. Rosli bin Md Illias | Officiating speech |
 |  | MC1 | Thank you, Prof. Dr. Rosli bin Md Illias for the speech. Please remain in front for the gimmick|
-| MoU Exchange Ceremony | MC | We will now proceed with the MoU Exchange Ceremony. We are delighted to witness the formalization of this collaboration. May I please invite the representatives from both parties to the stage for the exchange. |
+| MoU Exchange Ceremony | MC | We will now proceed with the MoU Exchange Ceremony. We are delighted to witness the formalization of this collaboration. May I please invite the Ms Norlisa Francis Nordin from Certiify to the front for the exchange. |
 | Memento Exchange | [Representative 1] and [Representative 2] | Exchange of mementos |
 | Souvenir Presentation | [Presenter] | Presentation of souvenirs |
 | Photo Session | MC | To capture this memorable occasion, we will now have a photo session. I would like to invite all the distinguished guests and VIPs to the stage for a group photo. |
