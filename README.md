@@ -12,7 +12,7 @@ Sure, I can help with that. Here is the markdown table for the content you provi
 |  | *MC 2* | Thank you, Dr. Ahmad Najmi, for your kind words and warm welcome. |
 | Dean Speech | **MC 1** | Next, we would like to invite Prof. Ts. Dr. Wan Mohd Nasir bin Wan Kadir, Dean of the Faculty of Computing, to deliver his speech. Please welcome Prof. Ts. Dr. Wan Mohd Nasir to the stage. |
 |  | Prof. Ts. Dr. Wan Mohd Nasir bin Wan Kadir | Dean's speech |
-|  | MC1 | Thank you, Prof. Ts. Dr. Wan Mohd Nasir, for your insightful speech. |
+|  | **MC 1** | Thank you, Prof. Ts. Dr. Wan Mohd Nasir, for your insightful speech. |
 | Officiating Speech | *MC 2* | Now, it is my honor to invite Prof. Dr. Rosli bin Md Illias, Deputy Vice Chancellor (Research & Innovation) UTM, to deliver the officiating speech. Please welcome Prof. Dr. Rosli to the stage. |
 |  | Prof. Dr. Rosli bin Md Illias | Officiating speech |
 |  | *MC 2* | Thank you, Prof. Dr. Rosli bin Md Illias for the speech. Please remain in front for the gimmick|
