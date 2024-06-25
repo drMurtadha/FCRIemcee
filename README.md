@@ -8,8 +8,9 @@ Sure, I can help with that. Here is the markdown table for the content you provi
 | Dua Recitation | [name] | Recitation of Dua |
 |  | MC | Thank you, [name], for the beautiful recitation. May we all be blessed with a successful and enriching event today. |
 | Welcoming Remark  | MC | Now, it gives me great pleasure to invite Dr. Ahmad Najmi bin Amerhaider Nuar, the Program Director, to deliver the welcoming remarks. Please give a warm welcome to Dr. Ahmad Najmi. |
-| Welcoming Remark | Dr. Ahmad Najmi bin Amerhaider Nuar | Welcoming remarks |
-| Dean Speech | Prof. Ts. Dr. Wan Mohd Nasir bin Wan Kadir | Dean's speech |
+|  | Dr. Ahmad Najmi bin Amerhaider Nuar | Welcoming remarks |
+| Dean Speech | MC | Next, we would like to invite Prof. Ts. Dr. Wan Mohd Nasir bin Wan Kadir, Dean of the Faculty of Computing, to deliver his speech. Please welcome Prof. Ts. Dr. Wan Mohd Nasir to the stage. |
+|  | Prof. Ts. Dr. Wan Mohd Nasir bin Wan Kadir | Dean's speech |
 | Officiating Speech | Prof. Dr. Rosli bin Md Illias | Officiating speech |
 | MoU Exchange Ceremony | MC | We will now proceed with the MoU Exchange Ceremony. We are delighted to witness the formalization of this collaboration. May I please invite the representatives from both parties to the stage for the exchange. |
 | Memento Exchange | [Representative 1] and [Representative 2] | Exchange of mementos |
