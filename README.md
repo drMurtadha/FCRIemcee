@@ -15,6 +15,7 @@ Sure, I can help with that. Here is the markdown table for the content you provi
 |  | MC1 | Thank you, Prof. Ts. Dr. Wan Mohd Nasir, for your insightful speech. |
 | Officiating Speech | MC2 | Officiating speech |
 |  | Prof. Dr. Rosli bin Md Illias | Officiating speech |
+|  | MC1 | Thank you, Prof. Dr. Rosli bin Md Illias for the speech. Please remain in front for the gimmick|
 | MoU Exchange Ceremony | MC | We will now proceed with the MoU Exchange Ceremony. We are delighted to witness the formalization of this collaboration. May I please invite the representatives from both parties to the stage for the exchange. |
 | Memento Exchange | [Representative 1] and [Representative 2] | Exchange of mementos |
 | Souvenir Presentation | [Presenter] | Presentation of souvenirs |
