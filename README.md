@@ -10,7 +10,7 @@ Sure, I can help with that. Here is the markdown table for the content you provi
 | Welcoming Remark  | *MC 2* | Now, it gives me great pleasure to invite Dr. Ahmad Najmi bin Amerhaider Nuar, the Program Director, to deliver the welcoming remarks. Please give a warm welcome to Dr. Ahmad Najmi. |
 |  | Dr. Ahmad Najmi bin Amerhaider Nuar | Welcoming remarks |
 |  | *MC 2* | Thank you, Dr. Ahmad Najmi, for your kind words and warm welcome. |
-| Dean Speech | **MC1** | Next, we would like to invite Prof. Ts. Dr. Wan Mohd Nasir bin Wan Kadir, Dean of the Faculty of Computing, to deliver his speech. Please welcome Prof. Ts. Dr. Wan Mohd Nasir to the stage. |
+| Dean Speech | **MC 1** | Next, we would like to invite Prof. Ts. Dr. Wan Mohd Nasir bin Wan Kadir, Dean of the Faculty of Computing, to deliver his speech. Please welcome Prof. Ts. Dr. Wan Mohd Nasir to the stage. |
 |  | Prof. Ts. Dr. Wan Mohd Nasir bin Wan Kadir | Dean's speech |
 |  | MC1 | Thank you, Prof. Ts. Dr. Wan Mohd Nasir, for your insightful speech. |
 | Officiating Speech | *MC 2* | Now, it is my honor to invite Prof. Dr. Rosli bin Md Illias, Deputy Vice Chancellor (Research & Innovation) UTM, to deliver the officiating speech. Please welcome Prof. Dr. Rosli to the stage. |
@@ -18,9 +18,9 @@ Sure, I can help with that. Here is the markdown table for the content you provi
 |  | *MC 2* | Thank you, Prof. Dr. Rosli bin Md Illias for the speech. Please remain in front for the gimmick|
 | Gimmick Presentation |
 |  | *MC 2* | Thank you, Prof. Dr. Rosli bin Md Illias for officiating this event ** usher to escort TNCPI back to sit **|
-| MoU Exchange Ceremony and Memento Exchange | MC1 | We will now proceed with the MoU Exchange Ceremony. We are delighted to witness the formalization of collaboration with Certiify Solutions Sdn Bhd, Wavelet Solutions Sdn Bhd and One Team Networks Sdn Bhd. 
-|  | **MC1** | To kick off our MOU Exchange, we would like to invite Prof. Ts. Dr. Wan Mohd Nasir bin Wan Kadir and Prof. Dr. Rosli bin Md Illias to the the front.
-|  | **MC1** | First up, Ms Norlisa Francis Nordin from Certiify Solutions Sdn Bhd and representatives to the front for the exchange of MOU and memento . |
+| MoU Exchange Ceremony and Memento Exchange | **MC 1** | We will now proceed with the MoU Exchange Ceremony. We are delighted to witness the formalization of collaboration with Certiify Solutions Sdn Bhd, Wavelet Solutions Sdn Bhd and One Team Networks Sdn Bhd. 
+|  | **MC 1** | To kick off our MOU Exchange, we would like to invite Prof. Ts. Dr. Wan Mohd Nasir bin Wan Kadir and Prof. Dr. Rosli bin Md Illias to the the front.
+|  | **MC 1** | First up, Ms Norlisa Francis Nordin from Certiify Solutions Sdn Bhd and representatives to the front for the exchange of MOU and memento . |
 |  | *MC 2* | Next, we would like to invite Mr. Vincent Lee Hong Fay from Wavelet Solutions Sdn Bhd and representatives for MOU and memento exchange.|
 |  | *MC 2* | Lastly, Mr Lim from One Team Networks Sdn Bhd and representatives.
 | Photo Session | **MC 1** | To capture this memorable occasion, we will now have a group photo session. I would like to invite all the distinguished guests and VIPs to the stage for a group photo. |
