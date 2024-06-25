@@ -4,7 +4,7 @@ Sure, I can help with that. Here is the markdown table for the content you provi
 
 | Section | Speaker | Content |
 | --- | --- | --- |
-| Opening Ceremony | **MC 1** | Ladies and gentlemen, Assalamu'alaikum Warahmatullahi Wabarakatuh and a very good morning to everyone. On behalf of the organizing committee, it is my pleasure to welcome all of you to this prestigious event. We are honored to have such esteemed guests with us today. To begin our ceremony, I would like to invite Dr. Khatib Sharbini, to recite the Dua. Please welcome Dr. Khatib to the stage. |
+| Opening Ceremony | **MC 1** | Ladies and gentlemen, Assalamu'alaikum Warahmatullahi Wabarakatuh and a very good morning to everyone. On behalf of the organizing committee, it is my pleasure to welcome all of you to this prestigious event, Faculty of Computing Research and Innovation Day and Meet and Greet Industry 2024. We are honored to have such esteemed guests with us today. To begin our ceremony, I would like to invite Dr. Khatib Sharbini, to recite the Dua. Please welcome Dr. Khatib to the stage. |
 | Dua Recitation | Dr. Khatib Sharbini | Recitation of Dua |
 |  | **MC 1** | Thank you, Dr. Khatib, for the beautiful recitation. May we all be blessed with a successful event today. |
 | Welcoming Remark  | *MC 2* | Now, it gives me great pleasure to invite Dr. Ahmad Najmi bin Amerhaider Nuar, the Program Director, to deliver the welcoming remarks. Please give a warm welcome to Dr. Ahmad Najmi. |
