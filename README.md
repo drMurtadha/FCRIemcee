@@ -5,7 +5,7 @@ Sure, I can help with that. Here is the markdown table for the content you provi
 | Section | Speaker | Content |
 | --- | --- | --- |
 | Opening Ceremony | #MC1# | Ladies and gentlemen, Assalamu'alaikum Warahmatullahi Wabarakatuh and a very good morning to everyone. On behalf of the organizing committee, it is my pleasure to welcome all of you to this prestigious event. We are honored to have such esteemed guests with us today. To begin our ceremony, I would like to invite [Dr. Khatib Sharbini], to recite the Dua. Please welcome Dr. Khatib] to the stage. |
-| Dua Recitation | [name] | Recitation of Dua |
+| Dua Recitation | Dr. Khatib Sharbini | Recitation of Dua |
 |  | MC1 | Thank you, [name], for the beautiful recitation. May we all be blessed with a successful and enriching event today. |
 | Welcoming Remark  | MC2 | Now, it gives me great pleasure to invite Dr. Ahmad Najmi bin Amerhaider Nuar, the Program Director, to deliver the welcoming remarks. Please give a warm welcome to Dr. Ahmad Najmi. |
 |  | Dr. Ahmad Najmi bin Amerhaider Nuar | Welcoming remarks |
@@ -15,8 +15,9 @@ Sure, I can help with that. Here is the markdown table for the content you provi
 |  | MC1 | Thank you, Prof. Ts. Dr. Wan Mohd Nasir, for your insightful speech. |
 | Officiating Speech | MC2 | Now, it is my honor to invite Prof. Dr. Rosli bin Md Illias, Deputy Vice Chancellor (Research & Innovation) UTM, to deliver the officiating speech. Please welcome Prof. Dr. Rosli to the stage. |
 |  | Prof. Dr. Rosli bin Md Illias | Officiating speech |
-|  | MC1 | Thank you, Prof. Dr. Rosli bin Md Illias for the speech. Please remain in front for the gimmick|
-| MoU Exchange Ceremony | MC | We will now proceed with the MoU Exchange Ceremony. We are delighted to witness the formalization of this collaboration. May I please invite the Ms Norlisa Francis Nordin from Certiify to the front for the exchange. |
+|  | MC2 | Thank you, Prof. Dr. Rosli bin Md Illias for the speech. Please remain in front for the gimmick|
+| MoU Exchange Ceremony | MC1 | We will now proceed with the MoU Exchange Ceremony. We are delighted to witness the formalization of this collaboration. May I please invite the Ms Norlisa Francis Nordin from Certiify to the front for the exchange. |
+|  | MC1 | Next, we would like to invite Mr. Vincent Lee Hong Fay from Wavelet Solutions Sdn Bhd for MOU exchange.|
 | Memento Exchange | [Representative 1] and [Representative 2] | Exchange of mementos |
 | Souvenir Presentation | [Presenter] | Presentation of souvenirs |
 | Photo Session | MC | To capture this memorable occasion, we will now have a photo session. I would like to invite all the distinguished guests and VIPs to the stage for a group photo. |
