@@ -27,7 +27,3 @@ Sure, I can help with that. Here is the markdown table for the content you provi
 | Photo Session | MC 1 | To capture this memorable occasion, we will now have a group photo session. I would like to invite all the distinguished guests and VIPs to the stage for a group photo. |
 | Souvenir Presentation | MC 1 | We would like to invite Prof. Ts. Dr. Wan Mohd Nasir bin Wan kadir to present a token of appreciation to Prof. Dr. Rosli. 
 | Prof. Ts. Dr. Wan Mohd Nasir Wan Kadir | Presentation of Souvenir 
-Please replace `[name]`, `[Representative 1]`, `[Representative 2]`, and `[Presenter]` with the actual names. Feel free to adjust any parts of the table according to your specific needs or preferences.
-
-Source: Conversation with Copilot, 25/06/2024
-(1) https://www.tes.com/teaching-resource/primary-pe-ks1-and-ks2-cool-down-and-warm-up.... https://www.tes.com/teaching-resource/primary-pe-ks1-and-ks2-cool-down-and-warm-up-bundle-resource-pack-11752484.
