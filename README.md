@@ -13,7 +13,8 @@ Sure, I can help with that. Here is the markdown table for the content you provi
 | Dean Speech | MC1 | Next, we would like to invite Prof. Ts. Dr. Wan Mohd Nasir bin Wan Kadir, Dean of the Faculty of Computing, to deliver his speech. Please welcome Prof. Ts. Dr. Wan Mohd Nasir to the stage. |
 |  | Prof. Ts. Dr. Wan Mohd Nasir bin Wan Kadir | Dean's speech |
 |  | MC1 | Thank you, Prof. Ts. Dr. Wan Mohd Nasir, for your insightful speech. |
-| Officiating Speech | Prof. Dr. Rosli bin Md Illias | Officiating speech |
+| Officiating Speech | MC2 | Officiating speech |
+|  | Prof. Dr. Rosli bin Md Illias | Officiating speech |
 | MoU Exchange Ceremony | MC | We will now proceed with the MoU Exchange Ceremony. We are delighted to witness the formalization of this collaboration. May I please invite the representatives from both parties to the stage for the exchange. |
 | Memento Exchange | [Representative 1] and [Representative 2] | Exchange of mementos |
 | Souvenir Presentation | [Presenter] | Presentation of souvenirs |
