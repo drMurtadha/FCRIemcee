@@ -8,7 +8,6 @@ Sure, I can help with that. Here is the markdown table for the content you provi
 | Dua Recitation | Dr. Khatib Sharbini | Recitation of Dua |
 |  | MC1 | Thank you, Dr. Khatib, for the beautiful recitation. May we all be blessed with a successful event today. |
 | Welcoming Remark  | MC2 | Now, it gives me great pleasure to invite Dr. Ahmad Najmi bin Amerhaider Nuar, the Program Director, to deliver the welcoming remarks. Please give a warm welcome to Dr. Ahmad Najmi. |
-| --- | --- | --- |
 |  | Dr. Ahmad Najmi bin Amerhaider Nuar | Welcoming remarks |
 |  | MC2 | Thank you, Dr. Ahmad Najmi, for your kind words and warm welcome. |
 | Dean Speech | MC1 | Next, we would like to invite Prof. Ts. Dr. Wan Mohd Nasir bin Wan Kadir, Dean of the Faculty of Computing, to deliver his speech. Please welcome Prof. Ts. Dr. Wan Mohd Nasir to the stage. |
