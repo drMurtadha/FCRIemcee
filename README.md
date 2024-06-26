@@ -21,6 +21,7 @@ Sure, I can help with that. Here is the markdown table for the content you provi
 | Officiating Speech | *MC 2* | Now, it is my honor to invite Prof. Dr. Rosli bin Md Illias, Deputy Vice Chancellor (Research & Innovation) UTM, to deliver the officiating speech. Please welcome Prof. Dr. Rosli to the stage. |
 |  | Prof. Dr. Rosli bin Md Illias | Officiating speech |
 |  | *MC 2* | Thank you, Prof. Dr. Rosli bin Md Illias for the speech. Please remain in front for the gimmick|
+| | **MC 1** | To audience kindly give attention to the front video display for the gimmick action  |
 | Gimmick Presentation |
 |  | *MC 2* | Thank you, Prof. Dr. Rosli bin Md Illias for officiating this event ** usher to escort TNCPI back to sit **|
 | MoU Exchange Ceremony and Memento Exchange | **MC 1** | We will now proceed with the MoU Exchange Ceremony. We are delighted to witness the formalization of collaboration with Certiify Solutions Sdn Bhd, Wavelet Solutions Sdn Bhd and One Team Networks Sdn Bhd. 
