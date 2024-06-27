@@ -26,7 +26,7 @@ Sure, I can help with that. Here is the markdown table for the content you provi
 | Gimmick Presentation |
 |  | *MC 2* | Thank you, Prof. Dr. Rosli bin Md Illias for officiating this event ** usher to escort TNCPI back to sit **|
 | MoU Exchange Ceremony and Memento Exchange | **MC 1** | We will now proceed with the MoU Exchange Ceremony. We are delighted to witness the formalization of collaboration with Certiify Solutions Sdn Bhd, Wavelet Solutions Sdn Bhd and One Team Networks Sdn Bhd. 
-|  | **MC 1** | To kick off our MOU Exchange, we would like to invite the honourable Prof. Ts. Dr. Wan Mohd Nasir bin Wan Kadir and the honourable Prof. Dr. Rosli bin Md Illias to the the front.
+|  | **MC 1** | To kick off our MOU Exchange, we would like to invite the honourable Prof. Dr. Rosli bin Md Illias to the the front.
 |  | **MC 1** | First up, Ms Norlisa Francis Nordin from Certiify Solutions Sdn Bhd to the front for the exchange of MOU and memento . |
 |  | *MC 2* | Next, we would like to invite Mr. Vincent Lee Hong Fay from Wavelet Solutions Sdn Bhd for MOU and memento exchange.|
 |  | *MC 2* | Lastly, Mr Lim from One Team Networks Sdn Bhd.
